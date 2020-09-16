@@ -14,6 +14,11 @@
 ## ブログ
 - [はてなブログ](http://tagucch.hatenablog.com)
 
+## 経歴
+
+- [正社員](https://github.com/tagucch/about_me/blob/master/JobCareer.md)
+- [副業](https://github.com/tagucch/about_me/blob/master/SubJobCareer.md)
+
 ## スキル
 
 - サーバーサイド開発ではほぼRuby on Railsを使った開発を経験
