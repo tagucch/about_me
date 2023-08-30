@@ -4,10 +4,6 @@
 
 田口 祐吉 / Yukichi Taguchi
 
-## Icon
-
-![](icon.png)
-
 ## SNS
 
 - [GitHub](https://github.com/tagucch)
